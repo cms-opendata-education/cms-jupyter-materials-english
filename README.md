@@ -3,6 +3,9 @@ This repository contains material for classroom activities using open data from 
 Materials include basic introduction to Python and Jupyter Notebooks and ready exercises for the classrooms.
 
 ## Contents
-Introduction to Jupyter
-Exercises with Open data
-
+- Introduction to Jupyter <br>
+  - This folder contains installation instructions, the very basics of Python programming and useful commands for creating and   formatting Notebooks in Jupyter
+- Exercises with Open data
+  - This folder contains several exercises to be carried out using Jupyter
+- Data
+  - Here you can find all the data used in the Notebooks and also a few extra files in csv-format
