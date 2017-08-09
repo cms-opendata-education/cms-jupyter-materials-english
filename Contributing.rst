@@ -19,7 +19,7 @@ Contributions
 We follow typical `GitHub flow
 <https://guides.github.com/introduction/flow/index.html>`_.
 
-1. `Fork this repository <https://guides.github.com/introduction/flow/index.html>` into your personal space. 
+1. `Fork this repository <https://guides.github.com/introduction/flow/index.html>`_ into your personal space. 
 2. Start a new topical branch for any contribution. Name it sensibly,
    e.g. ``fixed-code-errors``.
 3. Test your branch on a local site. If everything works as expected,
