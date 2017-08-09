@@ -13,4 +13,10 @@ Materials provide basic introduction to Python and Jupyter Notebooks and ready e
 This material is made available under a CC-BY licence https://creativecommons.org/licenses/by/4.0/
 
 ## Using the materials
-You can download the contents of this repository as a ZIP which you can extract to your own device. The easiest way is to download the whole repository  
+You can download the contents of this repository as a ZIP which you can extract to your own device. <br>
+The easiest way is to download the whole repository by clicking <br>
+![Clone or Download](https://github.com/cms-opendata-education/cms-jupyter-materials-english/blob/master/Images/download.png)
+
+## Contributing
+Bug reports, feature requests and further exercises are warmly encouraged and welcome! <br>
+To contribute, see our [Contributing guide](Contributing.rst).
