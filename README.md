@@ -11,3 +11,6 @@ Materials provide basic introduction to Python and Jupyter Notebooks and ready e
   - Here you can find all the data used in the Notebooks and also a few extra files in csv-format
 
 This material is made available under a CC-BY licence https://creativecommons.org/licenses/by/4.0/
+
+## Using the materials
+You can download the contents of this repository as a ZIP which you can extract to your own device. The easiest way is to download the whole repository  
