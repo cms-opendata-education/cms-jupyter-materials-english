@@ -14,7 +14,7 @@ This material is made available under a CC-BY licence https://creativecommons.or
 
 ## Using the materials
 You can download the contents of this repository as a ZIP which you can extract to your own device. <br>
-The easiest way is to download the whole repository by clicking <br>
+The easiest way is to download the whole repository by clicking *Clone or download* button at the front page. <br>
 ![Clone or Download](https://github.com/cms-opendata-education/cms-jupyter-materials-english/blob/master/Images/download.png)
 
 ## Contributing
