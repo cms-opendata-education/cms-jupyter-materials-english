@@ -18,5 +18,5 @@ The easiest way is to download the whole repository by clicking <br>
 ![Clone or Download](https://github.com/cms-opendata-education/cms-jupyter-materials-english/blob/master/Images/download.png)
 
 ## Contributing
-Bug reports, feature requests and further exercises are warmly encouraged and welcome! <br>
+Development ideas, feature requests, bug reports and further exercises are warmly encouraged and welcome! <br>
 To contribute, see our [Contributing guide](Contributing.rst).
