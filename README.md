@@ -9,6 +9,7 @@ Materials provide basic introduction to Python and Jupyter Notebooks and ready e
   - This folder contains several exercises to be carried out using Jupyter
 - Data
   - Here you can find all the data used in the Notebooks and also a few extra files in csv-format
+  - These files (with a slightly different naming) can also be found in [this record](http://opendata.web.cern.ch/record/545) on the CERN Open Data Portal or with [this search](http://opendata.web.cern.ch/search?page=1&size=20&q=&subtype=Derived&type=Dataset&experiment=CMS&file_type=csv)
 
 This material is made available under a CC-BY licence https://creativecommons.org/licenses/by/4.0/
 
