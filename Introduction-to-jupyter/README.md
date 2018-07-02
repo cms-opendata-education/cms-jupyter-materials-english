@@ -1,5 +1,6 @@
 ## Recommended order for exploring the files
-Alternative files are labelled with a/b
+Note: Guide to using Python includes everything the following files 
+      and more
 
 1. a. Jupyter-getting-started.ipynb <br>
    b. Jupyter-getting-started-exercise-only.ipynb
