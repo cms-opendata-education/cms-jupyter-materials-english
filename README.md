@@ -18,7 +18,7 @@ The hands-down easiest way is to use the entirely browser-based [MyBinder](https
 
 |Notebook|Open|
 |:--|:--|
-|Getting started with Jupyter|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-english/2018?filepath=Introduction-to-jupyter/Jupyter-getting-started.ipynb)|
+|Welcome to Jupyter!|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-english/2018?filepath=Introduction-to-jupyter/Welcome-to-Jupyter-Notebooks-intro.ipynb)|
 
 MyBinder works 99% of the time without problems, but it is still in beta and can sometimes be under active development. One alternative is to use Google's [Colab](https://colab.research.google.com), but that does require a google account log-in.
 
