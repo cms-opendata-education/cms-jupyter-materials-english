@@ -4,7 +4,7 @@ Materials provide both basic introduction to Python and Jupyter Notebooks as wel
 
 ## Contents
 - Introduction to Jupyter <br>
-  - This folder contains installation instructions, the very basics of Python programming and useful commands for creating and formatting Notebooks in Jupyter.
+  - This folder contains the very basics of Python programming and useful commands for creating and formatting Notebooks in Jupyter. If you prefer to run things from your own device, installation information can also be found from here.
 - Exercises with Open data
   - This folder contains several exercises to be carried out using Jupyter.
 - Data
