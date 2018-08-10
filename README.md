@@ -25,6 +25,8 @@ MyBinder works 99% of the time without problems, but it is still in beta and can
 If you prefer to use the files locally from your own computer, you can download the contents of this repository as a ZIP which you can extract to your own device. The easiest way is to download the whole repository by clicking *Clone or download* button at the front page. <br>
 ![Clone or Download](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/download.png)
 
+If you want to take your Notebook-skills to a higher level, consider these tips: https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+
 ## Contributing
 Development ideas, feature requests, bug reports and further exercises are warmly encouraged and welcome! <br>
 To contribute, see our [Contributing guide](https://github.com/cms-opendata-education/cms-opendata-education/blob/master/Contributing.rst).
